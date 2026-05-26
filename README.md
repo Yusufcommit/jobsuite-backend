@@ -7,9 +7,9 @@
 ![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3-orange?style=flat)
 ![Deployed on Render](https://img.shields.io/badge/Deployed_on-Render-46E3B7?style=flat&logo=render&logoColor=white)
 
-**Live API:** coming soon  
+**Live API:** https://jobsuite-backend.onrender.com  
 **Frontend Repo:** [jobsuite-ai](https://github.com/Yusufcommit/jobsuite-ai)  
-**API Docs:** /docs (Swagger UI)
+**API Docs:** https://jobsuite-backend.onrender.com/docs
 
 ---
 
@@ -79,6 +79,7 @@ Swagger docs at `http://localhost:8000/docs`
 - [x] Cover letter generation with tone options
 - [x] JD matching with skill gap detection
 - [x] AI tips per job application
+- [x] Production deployment on Render
 - [ ] PostgreSQL session storage
 - [ ] JWT authentication
 - [ ] Docker + CI/CD pipeline
